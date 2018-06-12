@@ -5,9 +5,10 @@ This model is heavily built upon [pcyin/pytorch\_nmt](https://github.com/pcyin/p
 To train the model, please follow the steps:
 
   Step 1. run vocab.sh to obtain vocab file
+  
   Step 2. run train.sh to train the model
 
-To test the trained model, please:
+To test the trained model, please follow:
 
   Run test.sh
 
