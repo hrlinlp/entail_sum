@@ -12,4 +12,4 @@ To test the trained model, please:
 
   run test.sh
 
-More details can be found in [our COLING 2018 paper](https://aclanthology.coli.uni-saarland.de/events/coling-2018/xxx)
+More details can be found in [our COLING 2018 paper](http://aclweb.org/anthology/C18-1121)
